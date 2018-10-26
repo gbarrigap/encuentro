@@ -8,10 +8,8 @@ section.hero:nth-of-type(1) div.column {
 section.hero:nth-of-type(1) img {
     height: 10rem;
     width: auto;
-    display: inline;
 }
 section.hero:nth-of-type(1) {
-    /* background: linear-gradient(#9f248fff 60%, #fef200ff); */
     background-color: black;
 }
 video {
@@ -19,7 +17,4 @@ video {
 }
 section#actividades strong {
     color: #131313;
-}
-.hero-video {
-    /* top: 10rem; */
 }

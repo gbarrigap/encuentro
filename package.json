@@ -1,0 +1,26 @@
+{
+  "name": "v4-bulma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "init.js",
+  "dependencies": {
+    "bulma": "^0.7.2",
+    "jquery": "^3.3.1",
+    "npm": "^6.4.1",
+    "scrollit": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbarrigap/encuentro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbarrigap/encuentro/issues"
+  },
+  "homepage": "https://github.com/gbarrigap/encuentro#readme"
+}
